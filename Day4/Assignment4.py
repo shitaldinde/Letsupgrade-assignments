@@ -1,4 +1,4 @@
-for num in range(1042000,70264826):
+for num in range(1042000,702648266):
   temp=num
   total_digits=len(str(temp))
   sum=0
